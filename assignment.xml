@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="AssignmentDesign.css"?> 
+<Assignment> 
+    <title>Assignment 1 – Integrative Programming and Technologies</title> 
+    <Assignment_section> 
+        <idphoto></idphoto>
+        <info>PERSONAL INFORMATION</info> 
+        <lastname>Last Name: San Agustin</lastname>
+        <firstname>First Name: Charlon Dale</firstname> 
+        <middlename>Middle Name: Gonzaga</middlename> 
+        <birthday>Birthday: January 03,2000</birthday> 
+        <placeofbirth>Place Of Birth: Cainta, Rizal</placeofbirth>
+        <address>Address: blk.6  lt.25 Matsui st. Zuri Residences Brgy. Dolores Taytay, Rizal</address>
+        <secondaryschool>Secondary School: San Isidro National High School(SINHS)</secondaryschool>
+        <primaryschool>Primary School:Antipolo Dela Virgen School</primaryschool>
+        <email>Gmail:charlondalesanagustin@gmail.com</email>
+    </Assignment_section>
+</Assignment>
